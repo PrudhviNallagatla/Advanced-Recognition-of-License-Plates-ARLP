@@ -1,8 +1,12 @@
 # Automated Recognition of License Plates (ARLP)
 
+[![GitHub issues](https://img.shields.io/github/issues/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=red&label=Issues&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/issues)
+[![GitHub license](https://img.shields.io/github/license/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=green&label=License&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/blob/main/LICENSE)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 ## Introduction
 
-In today's digital era, the demand for intelligent systems capable of understanding and processing visual information is ever-increasing. One critical application domain is the recognition and interpretation of vehicle number plates, which are essential for various purposes ranging from law enforcement to traffic management. This project focuses on developing a robust Vehicle Number Plate Recognition (NPR) system tailored specifically for Indian vehicles.
+In today's digital era, the demand for intelligent systems capable of understanding and processing visual information is ever-increasing. One critical application domain is the recognition and interpretation of vehicle number plates, which are essential for various purposes ranging from law enforcement to traffic management. This Envision project (I03), as part of IEEE NITK (2024), focuses on developing a robust Vehicle Number Plate Recognition (NPR) system tailored specifically for Indian vehicles.
 
 ## Objective
 
@@ -81,11 +85,6 @@ Convolutional Neural Networks (CNNs) are a class of deep neural networks designe
 #### YOLO (You Only Look Once)
 
 YOLO is a state-of-the-art object detection algorithm that operates with high real-time accuracy. Unlike traditional object detection methods that use sliding windows and region proposal techniques, YOLO frames object detection as a regression problem to spatially separated bounding boxes and associated class probabilities directly from full images in a single pass through the network. YOLO achieves high detection accuracy and efficiency, making it popular for various real-time applications.
-
-#### UNets
-
-UNets are convolutional neural network architectures commonly used for semantic segmentation tasks, such as medical image segmentation and image-to-image translation. UNets consist of an encoder pathway to capture context and a decoder pathway to enable precise localization. They employ skip connections to concatenate feature maps from different levels of abstraction, facilitating information flow between encoder and decoder layers. UNets are known for their effectiveness in capturing fine-grained details and producing accurate segmentation masks.
-
 
 ## Implementation
 
