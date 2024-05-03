@@ -143,18 +143,6 @@ These are the results we got.
 5. [Inception-ResNet-v2: The 2017 winner of ILSVRC image classification](https://arxiv.org/abs/1602.07261)
 6. [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
-## Project Mentors:
-
-1. [Nallagatla Prudhvi](https://github.com/PrudhviNallagatla)
-2. [Shankaragouda]()
-
-## Project Members:
-
-1. [Anshul]()
-2. [Shubhang Galagali]()
-3. [Saurabh]()
-4. [Anush]()
-
 ## License:
 
 This repository is licensed under the [BSD-3-Clause License](..................)
