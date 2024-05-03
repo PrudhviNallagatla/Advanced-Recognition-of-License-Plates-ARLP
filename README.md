@@ -92,6 +92,12 @@ YOLO is a state-of-the-art object detection algorithm that operates with high re
 
 First, we collected the dataset from Kaggle, which consists of images of vehicles along with corresponding XML files containing coordinates for bounding boxes around the license plates. We utilized the `glob` and `os` modules in Python to process and extract the required information from the dataset efficiently. Each image was converted into a numpy array for further processing.
 
+The datasets we used are 
+- [Labeled licence plates dataset](https://www.kaggle.com/datasets/achrafkhazri/labeled-licence-plates-dataset),
+- [Automatic Number Plate Recognition](https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection) and
+- [Car License Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
+There are 567 + 453 + 433 = 1453 images in total.
+
 ![Boids Algorithm](assets/boids.jpg)
 <br>
 *Boids Algorithm*
