@@ -96,6 +96,7 @@ The datasets we used are
 - [Labeled licence plates dataset](https://www.kaggle.com/datasets/achrafkhazri/labeled-licence-plates-dataset),
 - [Automatic Number Plate Recognition](https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection) and
 - [Car License Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
+
 There are 567 + 453 + 433 = 1453 images in total.
 
 ![Boids Algorithm](assets/boids.jpg)
