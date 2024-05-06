@@ -4,6 +4,10 @@
 [![GitHub license](https://img.shields.io/github/license/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=green&label=License&style=flat)](https://github.com/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/blob/main/LICENSE)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+To run this file, click on this link:   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/blob/main/ARLP_Results.ipynb)
+
+
 ## Introduction
 
 In today's digital era, the demand for intelligent systems capable of understanding and processing visual information is ever-increasing. One critical application domain is the recognition and interpretation of vehicle number plates, which are essential for various purposes ranging from law enforcement to traffic management. This Envision project (I03), as part of IEEE NITK (2024), focuses on developing a robust Vehicle Number Plate Recognition (NPR) system tailored specifically for Indian vehicles.
