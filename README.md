@@ -1,7 +1,7 @@
 # Advanced Recognition of License Plates (ARLP)
 
-[![GitHub issues](https://img.shields.io/github/issues/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=red&label=Issues&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/issues)
-[![GitHub license](https://img.shields.io/github/license/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=green&label=License&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=red&label=Issues&style=flat)](https://github.com/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/issues)
+[![GitHub license](https://img.shields.io/github/license/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=green&label=License&style=flat)](https://github.com/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/blob/main/LICENSE)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Introduction
