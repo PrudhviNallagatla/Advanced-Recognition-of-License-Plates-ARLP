@@ -1,4 +1,4 @@
-# Automated Recognition of License Plates (ARLP)
+# Advanced Recognition of License Plates (ARLP)
 
 [![GitHub issues](https://img.shields.io/github/issues/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=red&label=Issues&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/issues)
 [![GitHub license](https://img.shields.io/github/license/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP?color=green&label=License&style=flat)](https://github.com/PrudhviNallagatla/Automated-Recognition-of-License-Plates-ARLP/blob/main/LICENSE)
