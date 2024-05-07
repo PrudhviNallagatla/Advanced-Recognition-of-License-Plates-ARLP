@@ -10,13 +10,13 @@ To use ARLP, click on this link and run this Jupyter Book:
 
 ## Introduction
 
-In today's digital era, the demand for intelligent systems capable of understanding and processing visual information is ever-increasing. One critical application domain is the recognition and interpretation of vehicle number plates, which are essential for various purposes ranging from law enforcement to traffic management. This project, as part of IEEE NITK, focuses on developing a robust Vehicle Number Plate Recognition (NPR) system tailored specifically for Indian vehicles.
+In today's digital era, the demand for intelligent systems capable of understanding and processing visual information is ever-increasing. One critical application domain is the recognition and interpretation of vehicle number plates, which are essential for various purposes ranging from law enforcement to traffic management. As part of IEEE NITK, this project focuses on developing a robust Vehicle Number Plate Recognition (NPR) system tailored specifically for Indian vehicles.
 
-We designed a customized CNN model from scratch, taking inspiration from various CNN architectures worldwide. Additionally, we implemented transfer learning by incorporating the Inception ResNet V2 model and trained it concurrently. We then evaluated and compared the outcomes of both approaches. We employed TesseractOCR and EasyOCR to extract text from number plates.
+We designed a customized CNN model, taking inspiration from various CNN architectures worldwide. Additionally, we implemented transfer learning by incorporating the Inception ResNet V2 model and trained it concurrently. We then evaluated and compared the outcomes of both approaches. We employed TesseractOCR and EasyOCR to extract text from number plates.
 
 ## Objective
 
-The primary objective of this project is to design and deploy a specialized Number Plate Recognition system for Indian vehicles. The goal is to create a **Custom CNN model from scratch** by studying various architecture of CNNs and also create a transfer learning model using **Inception Resnet v2**, to enable efficient and accurate identification of number plates, considering the unique characteristics and variations of license plates. This NPR system aims to provide a practical solution for automated toll collection, traffic monitoring, and law enforcement applications.
+The primary objective of this project is to design and deploy a specialized Number Plate Recognition system for Indian vehicles. The goal is to create a **Custom CNN model from scratch** by studying various architecture of CNNs and also create a transfer learning model using **Inception Resnet v2** to enable efficient and accurate identification of number plates, considering the unique characteristics and variations of license plates. This NPR system aims to provide a practical solution for automated toll collection, traffic monitoring, and law enforcement applications.
 
 ## User Guide
 
@@ -105,7 +105,7 @@ There are 567 + 453 + 433 = 1453 images in total.
 
 ### Custom CNN Approach
 
-We created a model **from scratch** with around 96 million parameters (96,127,521). We then stored it as a .keras file. The total size of the file is 1.1 GB. We implemented Inception-ResNet Blocks, Attention Mechanisms such as Spatial Attention, Channel Attention, CBAM Blocks and Dual Path Networks (DPNs). We used the Swish activation function instead of regular activation functions (like relu). The model's Architecture graph is in this repo's ARLP Resources folder - [link](https://github.com/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/blob/main/ARLP%20Resources/ARLP_Custom_CNN_architecture.png)
+We created a Custom model with around 96 million parameters (96,127,521). We then stored it as a .keras file. The total size of the file is 366 MB. We implemented Inception-ResNet Blocks, Attention Mechanisms such as Spatial Attention, Channel Attention, CBAM Blocks and Dual Path Networks (DPNs). We used the Swish activation function instead of regular activation functions (like relu). The model's Architecture graph is in this repo's ARLP Resources folder - [link](https://github.com/PrudhviNallagatla/Advanced-Recognition-of-License-Plates-ARLP/blob/main/ARLP%20Resources/ARLP_Custom_CNN_architecture.png)
 
 We've achieved an encouraging accuracy of 64.4897% with our model. Although there's room for improvement in tuning the hyperparameters, this presents an exciting opportunity for future refinement and enhancement of our project. With a positive outlook, we're eager to delve into further optimization to unlock the full potential of our model and elevate its performance even further.
 
