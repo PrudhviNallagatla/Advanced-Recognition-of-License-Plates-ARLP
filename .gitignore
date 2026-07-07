@@ -1,0 +1,5 @@
+dataset
+src/yolo_dataset
+.venv
+src/yolov8n.pt
+runs

@@ -1,0 +1,14 @@
+[project]
+name = "advanced-recognition-of-license-plates-arlp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "albumentations>=2.0.8",
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
+    "opencv-python>=5.0.0.93",
+    "tensorflow>=2.21.0",
+    "ultralytics>=8.4.90",
+]
